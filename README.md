@@ -14,8 +14,8 @@ Built for GATE aspirants who take dozens of mock tests and lose track of where t
 
 | Platform | File |
 |---|---|
-| 🪟 Windows | [Mock Test Tracker Setup 2.0.0.exe](../../releases/latest) |
-| 🍎 macOS (Apple Silicon) | [Mock Test Tracker-2.0.0-arm64.dmg](../../releases/latest) |
+| 🪟 Windows | [Mock Test Tracker Setup 2.0.0.exe](../../releases/latest/Mock.Test.Tracker.Setup.2.0.0.exe) |
+| 🍎 macOS (Apple Silicon) | [Mock Test Tracker-2.0.0-arm64.dmg](../../releases/latest/Mock.Test.Tracker-2.0.0-arm64.dmg) |
 
 > No account, no sign-up, no internet connection needed. Download, install, start logging tests.
 
