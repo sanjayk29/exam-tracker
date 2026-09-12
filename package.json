@@ -1,0 +1,34 @@
+{
+  "name": "mock-test-tracker",
+  "version": "2.0.0",
+  "description": "Mock Test Tracker",
+  "main": "main.js",
+  "author": "Sanjay Krishna K",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "build": {
+    "appId": "com.mocktesttracker.app",
+    "productName": "Mock Test Tracker",
+    "files": [
+      "**/*"
+    ],
+    "mac": {
+      "target": [
+        "dmg"
+      ]
+    },
+    "win": {
+      "target": [
+        "portable",
+        "nsis"
+      ]
+    }
+  },
+  "devDependencies": {
+    "electron": "^38.0.0",
+    "electron-builder": "^26.0.12"
+  }
+}

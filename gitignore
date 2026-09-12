@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build output (electron-builder) — don't commit installers, attach them to GitHub Releases instead
+dist/
+build/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env
+.env
